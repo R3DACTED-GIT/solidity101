@@ -1,4 +1,5 @@
 # solidity101
+### This will be updated with more as time goes on.
 ## How to use
 Each Section is in order of the layout of an ERC20 token. By following this, you should achieve the knowledge to create an ERC20 token.
 
